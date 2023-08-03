@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/290ach" target="blank"><img src="https://img.shields.io/twitter/follow/290ach?logo=twitter&style=for-the-badge" alt="290ach" /></a> </p>
 
-- 🔭 I'm currently working on [A Random Project](https://github.com/IWantJuice22/Collab-Project)
+- 🔭 I'm currently working on [Flowlyst](https://github.com/IWantJuice22/Collab-Project)
 
 - 🌱 I’m currently learning **Python and C etc.**
 
